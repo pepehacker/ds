@@ -28,5 +28,3 @@ def guess_the_number(number: int = 1) -> int:
       high = mid
       
   return count
-
-print(guess_the_number(50))
